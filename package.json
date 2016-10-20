@@ -1,5 +1,5 @@
 {
-  "name": "rootcause",
+  "name": "reporter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "start": "webpack-dev-server --content-base . --inline"
   },
   "keywords": [],
-  "author": "",
+  "author": "Emil Stridfeldt",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.7.4",
@@ -22,7 +22,7 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
-    "react": "^0.14.8",
-    "react-dom": "^0.14.8"
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
   }
 }
